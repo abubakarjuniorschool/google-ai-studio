@@ -1,0 +1,6 @@
+{
+  "name": "Abubakar",
+  "description": "A weekly photo journal and shared community album capturing people's authentic moments, photos, and highlights.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
